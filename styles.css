@@ -1,0 +1,59 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-image: url('feubg.jpg');
+    backdrop-filter: blur(5px);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.content {
+    max-width: 800px;
+    margin: 20px auto; 
+}
+
+section {
+    padding: 20px;
+    margin: 10px auto; 
+    background-color: #ffffff42;
+    border-radius: 25px;
+    text-align: center;
+    
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+video {
+    display: block;
+    margin: 20px auto; 
+    max-width: 100%;
+}
+
+footer {
+    text-align: center; 
+    padding: 5px;
+    background-color: #f4f4f4;
+    color: #333;
+    width: 100%;
+    margin-top: 15px;
+    
+}
+
+.subtext {
+    color: #000000; 
+}
+
+.lyrics {
+    margin-top: 20px;
+    font-style: italic;
+    color: #000000; /* Ensure the color is grey */
+    line-height: 1.8;
+}
